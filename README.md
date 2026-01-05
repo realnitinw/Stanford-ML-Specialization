@@ -1,12 +1,12 @@
-# 🎓 Stanford Machine Learning Specialization Vault
+#  Stanford Machine Learning Specialization Vault
 This repository contains my technical implementations and lab assignments from the **Stanford Machine Learning Specialization** taught by Andrew Ng.
 
-### 🔬 Technical Scope
+###  Technical Scope
 As a Computer Science student at MSIT (Class of 2029), I have used these labs to master the bridge between theoretical math and practical Python implementation.
 
 ---
 
-### 🧠 Core Concepts Mastered
+###  Core Concepts Mastered
 
 * **Supervised Machine Learning:** * Implementation of Linear and Logistic Regression using **Gradient Descent** and **Vectorization**.
     * Application of **Regularization (L1/L2)** to ensure model generalization and prevent overfitting.
@@ -16,7 +16,7 @@ As a Computer Science student at MSIT (Class of 2029), I have used these labs to
 
 
 
-### 📊 Advanced Performance Evaluation & Metrics
+###  Advanced Performance Evaluation & Metrics
 
 I don't just optimize for Accuracy; I evaluate model robustness using the specific metrics required for the problem type:
 
